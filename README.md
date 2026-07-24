@@ -172,7 +172,7 @@ Documentação completa em [`/docs`](./docs): arquitetura, banco de dados, API, 
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/jamiellyreis.png" width="100" /><br />
+<img src="https://github.com/jamielly.png" width="100" /><br />
 <strong>Jamielly Reis</strong><br />
 Escola 42 São Paulo
 </td>
