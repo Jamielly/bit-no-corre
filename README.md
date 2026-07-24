@@ -146,7 +146,7 @@ graph TB
 ## Como executar
 
 ```bash
-git clone https://github.com/jamiellyreis/bit-no-corre.git
+git clone https://github.com/jamielly/bit-no-corre.git
 cd bit-no-corre
 npm install
 npm run dev
